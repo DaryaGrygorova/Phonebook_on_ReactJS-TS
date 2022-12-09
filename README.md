@@ -1,1 +1,8 @@
-# Phonebook_on_ReactJS-TS
+**Read in other languages: [Русский](README.md)
+
+# React project  
+
+Этот проект был создан при помощи
+[Create React App](https://github.com/facebook/create-react-app). Для знакомства
+и настройки дополнительных возможностей
+[обратись к документации](https://facebook.github.io/create-react-app/docs/getting-started).
